@@ -1,7 +1,6 @@
 # MelodyFlow - Modern Music Streaming Platform 🎵
 
 
-![MelodyFlow Logo](https://melodyflow-mscx0013.onrender.com/logo.png)
 Frontend: [https://fullstack-music-player-mscs-projects.vercel.app](https://fullstack-music-player-mscs-projects.vercel.app)
 
 
