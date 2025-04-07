@@ -16,6 +16,7 @@
     "@fortawesome/react-fontawesome": "^0.2.2",
     "@tailwindcss/vite": "^4.0.15",
     "axios": "^1.8.4",
+    "framer-motion": "^12.6.3",
     "jsmediatags": "^3.9.7",
     "music-metadata": "^11.0.2",
     "react": "^19.0.0",
